@@ -6,9 +6,9 @@ This repository contains a demo subset of the data and analysis pipeline from my
 The full dataset is not publicly shared due to research data restrictions, but this demo illustrates the workflow and analytical methods I used to process and interpret behavioral and optogenetic experiments.
 
 ## Contents
-- `data/` – sample data files
-- `notebook/` – Jupyter notebooks for data cleaning, statistical analysis, and visualization  
-- `figures/` – example plots generated from the analysis  
+- `raw_data/` – sample data files
+- `data_analysis.ipynb/` – the Jupyter notebook for data cleaning, statistical analysis, and visualization  
+- `figs/` – example plots generated from the analysis  
 
 ## Methods Highlight
 - Data cleaning and transformation with **Python (Pandas, NumPy)**  
